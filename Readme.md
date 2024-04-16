@@ -1,5 +1,6 @@
 Please contact me this address.
 [william121747@outlook.com](https://join.skype.com/invite/KggE7Nt6iuRX)
+My address is nadinejay07@gmail.com
 
 
 Pattern is a web mining module for Python. It has tools for:
